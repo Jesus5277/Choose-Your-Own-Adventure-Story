@@ -29,5 +29,15 @@ p{
 
 div#container {
 	margin: 0 auto;
-	width: 800px;
+	max-width: 800px;
 }
+
+img {
+	width: 100%;
+}
+
+img#abstract-image {
+	width:200px;
+}
+
+
